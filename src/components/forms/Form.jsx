@@ -170,7 +170,7 @@ function handleSelect_skill(e) {
   }
   }
 
-  console.log(usp)
+  console.log(usp,reason_for_location,marketing_avenues,scaleup_potential)
 
   return (
     <div className="main">
